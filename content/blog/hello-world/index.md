@@ -15,7 +15,10 @@ Oh, and here's a great quote from this Wikipedia on
 
 ![image here](./iu.jpeg).
 ![image here too](./wine.jpeg).
-![image here too](./puppy.jpeg).
+![image here too](./puppy0.jpeg).
+![image here too](./puppy1.jpeg).
+![image here too](./puppy2.jpeg).
+![image here too](./puppy3.jpeg).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
 > eggs in brine, or packing each egg in damp, salted charcoal. In Asian
