@@ -1,0 +1,15 @@
+name: Cron Webhook
+
+on:
+  schedule:
+    - cron: "00 * * * * *" 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Webhook
+        uses: joelwmale/webhook-action@master
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
