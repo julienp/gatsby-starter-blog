@@ -2,7 +2,7 @@ name: Cron Webhook
 
 on:
   schedule:
-    - cron: "11 * * * *"
+    - cron: "20 * * * *"
 
 jobs:
   build:
@@ -13,3 +13,4 @@ jobs:
         uses: joelwmale/webhook-action@master
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          data: "Ping"
