@@ -7,9 +7,6 @@
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
-  "renovate": {
-      "hello": "yes"
-  },
   "dependencies": {
     "gatsby": "^2.20.23",
     "gatsby-image": "^2.3.1",
