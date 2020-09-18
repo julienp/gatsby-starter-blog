@@ -20,7 +20,7 @@ Oh, and here's a great quote from this Wikipedia on
 ![image here too](./puppy1.jpeg).
 ![image here too](./puppy2.jpeg).
 ![image here too](./puppy3.jpeg).
-![image here too](./vezelay.jpeg).
+![vezelay](./vezelay.jpeg).
 
 A change 2
 
